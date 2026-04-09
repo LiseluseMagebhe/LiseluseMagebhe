@@ -5,10 +5,10 @@
 ---
 
 ### 📖 About Me
-- 🔭 **Current Focus:** [Developing efficient algorithms or refining a specific project]
-- 🌱 **Learning:** [Advancing my knowledge in C++, Java, and Machine Learning]
-- 🏆 **Goals:** [Preparing for competitive programming or mastering system architecture]
-- ⚡ **Philosophy:** ["I tend to lean towards structure, precision whenever I'm doing a project."]
+- 🔭 **Current Focus:** Developing efficient algorithms or refining a specific project
+- 🌱 **Learning:** Advancing my knowledge in C++, Java, and Machine Learning
+- 🏆 **Goals:** Preparing for competitive programming or mastering system architecture
+- ⚡ **Philosophy:** "I tend to lean towards structure, precision whenever I'm doing a project."
 
 ---
 
