@@ -37,4 +37,4 @@
 ---
 
 ### 📬 Connect with Me
-[LinkedIn](www.linkedin.com/in/liseluse-magebhe-a44978302) | [Email](theblackapex@gmail.com)
+LinkedIn: (www.linkedin.com/in/liseluse-magebhe-a44978302)
